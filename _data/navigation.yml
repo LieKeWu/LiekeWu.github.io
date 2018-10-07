@@ -1,6 +1,6 @@
 header:
   - titles:
-      en:       Aboutrchive
+      en:       Archive
       zh:       归档
       zh-Hans:  归档
       zh-Hant:  歸檔
@@ -11,4 +11,4 @@ header:
       zh-Hans:  关于
       zh-Hant:  關於
     url:        /about.html
-    
+
