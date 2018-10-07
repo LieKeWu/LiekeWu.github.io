@@ -11,4 +11,5 @@ header:
       zh-Hans:  关于
       zh-Hant:  關於
     url:        /about.html
-
+- title:      GitHub
+    url:        https://github.com/LieKeWu/LiekeWu.github.io
