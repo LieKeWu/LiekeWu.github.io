@@ -21,8 +21,7 @@ highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "t
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : 吴立恳的博客
-description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+description: 一段段关于生活，学习，工作，开心的记录。
 
 
 ## => Language and Timezone
