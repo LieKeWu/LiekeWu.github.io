@@ -33,19 +33,19 @@ timezone: Asia/Shanghai# see https://en.wikipedia.org/wiki/List_of_tz_database_t
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
+  type      : person# "person" (default), "organization"
   name      : Lieke
-  url       :
+  url       : https://liekewu.github.io/
   avatar    : # path or url of avatar image
   bio       : Mr.Wu is a good man!
-  email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
+  email     : wuliken@qq.com
+  facebook  : https://www.facebook.com/lieke.wu# "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name/
   linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name/
-  github    : # "user_name" the last part of your profile url, e.g. https://github.com/user_name
+  github    : https://github.com/liekewu# "user_name" the last part of your profile url, e.g. https://github.com/user_name
   npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
 
